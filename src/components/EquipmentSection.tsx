@@ -9,11 +9,11 @@ const retro = {
   img: retroImg,
   logo: logoCat,
   desc: "Equipamento moderno que entrega alta potência, produtividade e precisão para sua obra.",
-  items: ["Terraplanagem", "Escavações", "Abertura de valas", "Fundações", "Movimentação de materiais", "Manutenção de estradas"],
+  items: ["Terraplanagem", "Escavações", "Abertura de valas", "Fundações", "Movimentação de materiais", "Manutenção e abertura de estradas"],
 };
 
 const trator = {
-  name: "Trator Massey Ferguson 292",
+  name: "Trator Massey Ferguson",
   img: tratorImg,
   logo: logoMassey,
   desc: "Equipado com diversos implementos para a realização dos serviços que você necessitar.",
