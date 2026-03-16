@@ -21,7 +21,7 @@ const tratorServices: ServiceCard[] = [
   { icon: Wheat, title: "Produção de silagem", desc: "Corte e compactação de milho e sorgo." },
   { icon: TrendingDown, title: "Curvas de nível", desc: "Proteção do solo contra erosão." },
   { icon: Sprout, title: "Distribuição de calcário e adubo", desc: "Correção e preparo do solo." },
-  { icon: Fence, title: "Cercamento profissional", desc: "Perfuração para instalação de estacas." },
+  { icon: Fence, title: "Cercamento profissional", desc: "Perfuração para estacas e realização de cercamento." },
   { icon: Scissors, title: "Roçagem de pastagens e terrenos", desc: "Limpeza e controle de vegetação." },
 ];
 

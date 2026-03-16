@@ -13,7 +13,7 @@ const retro = {
 };
 
 const trator = {
-  name: "Trator Massey Ferguson 292",
+  name: "Trator Massey Ferguson",
   img: tratorImg,
   logo: logoMassey,
   desc: "Equipado com diversos implementos para a realização dos serviços que você necessitar.",
