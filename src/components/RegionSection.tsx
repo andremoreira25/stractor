@@ -7,6 +7,7 @@ const cities = [
   "Serro",
   "Congonhas do Norte",
   "Santana do Riacho",
+  "Santo Antônio do Rio Abaixo",
   "Morro do Pilar",
 ];
 

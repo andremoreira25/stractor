@@ -52,7 +52,7 @@ export default function ServicesSection() {
     <section id="servicos" className="section-padding bg-muted">
       <div className="container-narrow space-y-20">
         <ServiceGrid title="Serviços de Retroescavadeira" services={retroServices} />
-        <ServiceGrid title="Serviços com Trator" services={tratorServices} accent />
+        <ServiceGrid title="Serviços com Trator" services={tratorServices} />
       </div>
     </section>
   );

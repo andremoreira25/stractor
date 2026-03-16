@@ -21,7 +21,7 @@ export default function Index() {
         <ServicesSection />
         <SeoServicesSection />
         <RegionSection />
-        <GallerySection />
+        {/* <GallerySection /> */}
         <DifferentialsSection />
         <FaqSection />
         <ContactSection />
