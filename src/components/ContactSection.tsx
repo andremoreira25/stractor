@@ -4,7 +4,7 @@ export default function ContactSection() {
   return (
     <section id="contato" className="section-padding bg-secondary text-secondary-foreground">
       <div className="container-narrow text-center space-y-6 max-w-2xl">
-        <h2 className="font-heading font-black text-2xl md:text-3xl">Você precisa de Retroescavadeira ou Trator?
+        <h2 className="font-heading font-black text-2xl md:text-3xl">Você precisa de serviços de Retroescavadeira ou Trator?
 
         </h2>
         <p className="text-secondary-foreground/80 text-lg">
