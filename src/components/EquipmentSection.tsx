@@ -9,7 +9,7 @@ const retro = {
   img: retroImg,
   logo: logoCat,
   desc: "Equipamento moderno que entrega alta potência, produtividade e precisão para sua obra.",
-  items: ["Terraplanagem", "Escavações", "Abertura de valas", "Fundações", "Movimentação de materiais"],
+  items: ["Terraplanagem", "Escavações", "Abertura de valas", "Fundações", "Movimentação de materiais", "Manutenção de estradas"],
 };
 
 const trator = {
