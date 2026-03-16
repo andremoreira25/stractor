@@ -11,10 +11,10 @@ export default function ContactSection() {
           Entre em contato agora mesmo e solicite um orçamento.
         </p>
         <WhatsAppButton className="text-lg px-8 py-4" />
-        <p className="text-secondary-foreground/60 text-sm">
+        <p className="text-secondary-foreground/60 text-base">
           Telefone / WhatsApp: (31) 99962-5891
         </p>
       </div>
-    </section>
-  );
+    </section>);
+
 }
