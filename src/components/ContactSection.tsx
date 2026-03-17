@@ -12,7 +12,7 @@ export default function ContactSection() {
         </p>
         <WhatsAppButton className="text-lg px-8 py-4" />
         <p className="text-secondary-foreground/60 text-lg">
-          Telefone / WhatsApp: <a href="tel:+5531999625891" className="underline hover:text-secondary-foreground transition-colors">(31) 99962-5891</a>
+          Telefone / WhatsApp: <a href="tel:+5531999625891" className="underline transition-colors text-primary">(31) 99962-5891</a>
         </p>
       </div>
     </section>);
