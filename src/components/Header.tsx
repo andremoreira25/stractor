@@ -10,9 +10,7 @@ export default function Header() {
           <img src={logo} alt="Stractor" className="h-8 md:h-10" />
         </a>
         <a
-          href={getWhatsAppUrl()}
-          target="_blank"
-          rel="noopener noreferrer"
+          href="tel:+5531999625891"
           className="inline-flex items-center gap-2 bg-primary text-primary-foreground font-heading font-bold text-xs md:text-sm px-4 py-2 rounded-lg hover:opacity-90 transition-opacity"
         >
           <Phone className="w-4 h-4" />
