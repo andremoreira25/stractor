@@ -51,7 +51,7 @@ export default function EquipmentSection() {
           <p className="text-muted-foreground max-w-xl mx-auto">Máquinas profissionais para serviços urbanos e rurais em Conceição do Mato Dentro e região.</p>
         </div>
         <div className="grid md:grid-cols-2 gap-8">
-          <EquipCard data={retro} large />
+          <EquipCard data={retro} />
           <EquipCard data={trator} />
         </div>
         <div className="text-center">
