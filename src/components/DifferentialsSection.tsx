@@ -2,11 +2,11 @@ import { Clock, Shield, Wrench, MapPin, CalendarDays, Award } from "lucide-react
 
 const items = [
   { icon: Award, title: "Mais de 5 anos de experiência" },
-  { icon: Clock, title: "Atendimento rápido" },
-  { icon: Wrench, title: "Equipamentos profissionais" },
+  { icon: Clock, title: "Atendimento personalizado para cada tipo de serviço" },
+  { icon: Wrench, title: "Soluções completas com máquinas e equipamentos" },
   { icon: Shield, title: "Serviços urbanos e rurais" },
-  { icon: CalendarDays, title: "Locação por hora ou mensal" },
-  { icon: MapPin, title: "Atendimento na região" },
+  { icon: CalendarDays, title: "Locação por hora, diária ou conforme a sua demanda" },
+  { icon: MapPin, title: "Atendimento em toda a região" },
 ];
 
 export default function DifferentialsSection() {
