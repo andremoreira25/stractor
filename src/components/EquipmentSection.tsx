@@ -20,11 +20,11 @@ const trator = {
   items: ["Preparo de solo", "Silagem", "Roçagem", "Cercamento", "Curvas de nível", "Distribuição de calcário e adubo"],
 };
 
-function EquipCard({ data, large }: { data: typeof retro; large?: boolean }) {
+function EquipCard({ data }: { data: typeof retro }) {
   return (
     <div className="bg-card rounded-xl shadow-lg overflow-hidden flex flex-col">
       <div className="bg-muted p-6 flex items-center justify-center min-h-[250px]">
-        <img src={data.img} alt={data.name} className={`${large ? "max-h-72" : "max-h-48"} object-contain drop-shadow-lg`} loading="lazy" />
+        <img src={data.img} alt={data.name} className="max-h-64 object-contain drop-shadow-lg" loading="lazy" />
       </div>
       <div className="p-6 flex flex-col flex-1 gap-4">
         <img src={data.logo} alt="" className="h-6 object-contain self-start" loading="lazy" />
@@ -51,7 +51,7 @@ export default function EquipmentSection() {
           <p className="text-muted-foreground max-w-xl mx-auto">Máquinas profissionais para serviços urbanos e rurais em Conceição do Mato Dentro e região.</p>
         </div>
         <div className="grid md:grid-cols-2 gap-8">
-          <EquipCard data={retro} large />
+          <EquipCard data={retro} />
           <EquipCard data={trator} />
         </div>
         <div className="text-center">
