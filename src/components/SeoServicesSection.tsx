@@ -9,6 +9,10 @@ const tags = [
   "Trator para silagem",
   "Trator para roçagem",
   "Trator para cercamento",
+  "Caminhão para transporte de materiais",
+  "Caminhão basculante",
+  "Escavadeira para obras",
+  "Escavadeira para terraplanagem",
   "Serviços rurais com máquinas",
   "Locação de máquinas pesadas",
 ];
