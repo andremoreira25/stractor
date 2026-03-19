@@ -23,8 +23,8 @@ const trator = {
 function EquipCard({ data }: { data: typeof retro }) {
   return (
     <div className="bg-card rounded-xl shadow-lg overflow-hidden flex flex-col">
-      <div className="bg-muted p-6 flex items-center justify-center min-h-[250px]">
-        <img src={data.img} alt={data.name} className="max-h-64 object-contain drop-shadow-lg" loading="lazy" />
+      <div className="bg-muted w-full aspect-[4/3] p-6 flex items-center justify-center">
+        <img src={data.img} alt={data.name} className="max-h-full max-w-full object-contain drop-shadow-lg" loading="lazy" />
       </div>
       <div className="p-6 flex flex-col flex-1 gap-4">
         <img src={data.logo} alt="" className="h-6 object-contain self-start" loading="lazy" />
