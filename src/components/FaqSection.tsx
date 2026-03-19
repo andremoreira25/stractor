@@ -1,7 +1,7 @@
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 
 const faqs = [
-  { q: "Quanto custa o serviço da Retroescavadeira ou Trator?", a: "O valor depende do tipo de serviço, tempo de utilização e local do trabalho. Entre em contato pelo WhatsApp para receber um orçamento rápido." },
+  { q: "Quanto custa contratar os serviços?", a: "O valor depende do tipo de serviço, tempo de utilização e local do trabalho. Entre em contato pelo WhatsApp para receber um orçamento rápido." },
   { q: "Vocês atendem zona rural?", a: "Sim. Atendemos propriedades rurais e obras urbanas em Conceição do Mato Dentro, nos distritos e região." },
   { q: "Vocês oferecem outras máquinas além da Retroescavadeira e Trator?", a: "Sim. Podemos fornecer soluções completas com diferentes máquinas e equipamentos conforme a necessidade do serviço, garantindo mais praticidade para o cliente." },
   { q: "Quais serviços podem ser feitos com retroescavadeira?", a: "Terraplanagem, escavações, abertura de valas, fundações, limpeza de terrenos, abertura de estradas, drenagem e muito mais." },
