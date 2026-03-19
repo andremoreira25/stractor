@@ -11,7 +11,7 @@ const faqs = [
   { q: "Os implementos já estão incluídos no serviço do Trator?", a: "Sim. Já estão incluídos todos os implementos necessários para a realizar aração, gradeamento, abertura de sulcos, produção de silagem, distribuição de calcário, roçagem de pastagens e muito mais." },
   { q: "Vocês fazem serviços de limpeza de terreno?", a: "Sim. Realizamos limpeza de terrenos, remoção de mato, raízes e preparação da área para construção ou uso agrícola." },
   { q: "Quanto tempo demora para agendar um serviço?", a: "O prazo depende da agenda e do tipo de serviço. Entre em contato pelo WhatsApp para verificar disponibilidade e agendamento." },
-  { q: "Vocês atendem outras cidades da região?", a: "Sim. Atendemos Conceição do Mato Dentro e cidades próximas, como Dom Joaquim, Alvorada de Minas, Serro, Congonhas do Norte, Santana do Riacho e Morro do Pilar." },
+  { q: "Vocês atendem nos distritos de Conceição do Mato Dentro?", a: "Sim. Atendemos Conceição do Mato Dentro e cidades próximas, como Dom Joaquim, Alvorada de Minas, Serro, Congonhas do Norte, Santana do Riacho e Morro do Pilar." },
 ];
 
 export default function FaqSection() {

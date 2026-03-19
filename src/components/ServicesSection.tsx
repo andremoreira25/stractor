@@ -52,7 +52,7 @@ export default function ServicesSection() {
     <section id="servicos" className="section-padding bg-muted">
       <div className="container-narrow space-y-20">
         <p className="text-center text-muted-foreground text-base md:text-lg max-w-2xl mx-auto">
-          Além da Retroescavadeira e Trator, oferecemos soluções completas com diferentes máquinas e equipamentos conforme a necessidade do seu serviço.
+          Além da Retroescavadeira e Trator, oferecemos soluções completas com diferentes máquinas, caminhões e equipamentos conforme a necessidade do seu serviço.
         </p>
         <ServiceGrid title="Serviços de Retroescavadeira" services={retroServices} />
         <ServiceGrid title="Serviços com Trator" services={tratorServices} />
