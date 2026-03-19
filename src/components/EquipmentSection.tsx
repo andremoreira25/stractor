@@ -47,7 +47,7 @@ export default function EquipmentSection() {
     <section id="equipamentos" className="section-padding bg-background">
       <div className="container-narrow space-y-10">
         <div className="text-center space-y-2">
-          <h2 className="font-heading font-black text-2xl md:text-3xl">Nossos Equipamentos</h2>
+          <h2 className="font-heading font-black text-2xl md:text-3xl">Alguns Equipamentos</h2>
           <p className="text-muted-foreground max-w-xl mx-auto">Máquinas profissionais para serviços urbanos e rurais em Conceição do Mato Dentro e região.</p>
         </div>
         <div className="grid md:grid-cols-2 gap-8">
