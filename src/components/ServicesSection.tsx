@@ -9,7 +9,7 @@ interface ServiceCard {
 
 const retroServices: ServiceCard[] = [
   { icon: Mountain, title: "Terraplanagem e nivelamento", desc: "Preparação completa do terreno para obras." },
-  { icon: Shovel, title: "Abertura de valas, poços, piscinas, drenos e fossas", desc: "Escavação precisa para diferentes necessidades." },
+  { icon: Shovel, title: "Abertura de valas, poços, piscinas, drenos e fossas", desc: "Escavação precisa para diversas aplicações, incluindo execução de sistemas completos de drenagem." },
   { icon: Truck, title: "Carregamento de materiais", desc: "Movimentação de terra, areia, brita, cascalho e minério." },
   { icon: Route, title: "Abertura e manutenção de estradas", desc: "Abertura, manutenção, recuperação de estradas e criação de bacias de contenção." },
   { icon: Building2, title: "Escavações e fundações", desc: "Preparação para sapatas, baldrames, muros e pilares." },
