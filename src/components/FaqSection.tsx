@@ -5,7 +5,7 @@ const faqs = [
   { q: "Vocês atendem zona rural?", a: "Sim. Atendemos propriedades rurais e obras urbanas em Conceição do Mato Dentro, nos distritos e região." },
   { q: "Vocês oferecem outras máquinas além da Retroescavadeira e Trator?", a: "Sim. Podemos fornecer soluções completas com diferentes máquinas e equipamentos conforme a necessidade do serviço, garantindo mais praticidade para o cliente." },
   { q: "Quais serviços podem ser feitos com retroescavadeira?", a: "Terraplanagem, escavações, abertura de valas, fundações, limpeza de terrenos, abertura de estradas, drenagem e muito mais." },
-  { q: "O operador da máquina está incluído?", a: "Sim. Os serviços são realizados com operador experiente, garantindo segurança e qualidade na execução." },
+  { q: "O operador da máquina está incluso?", a: "Sim. Os serviços são realizados com operador experiente, garantindo segurança e qualidade na execução." },
   { q: "Vocês fazem terraplanagem?", a: "Sim. Realizamos serviços completos de terraplanagem e nivelamento de terrenos, preparando a área para construções, estradas ou outras obras." },
   { q: "Vocês cobram deslocamento?", a: "O custo de deslocamento pode variar dependendo da distância, tipo de serviço e quantidade de trabalho. Em muitos casos conseguimos ajustar o valor. Entre em contato pelo WhatsApp para avaliarmos a sua necessidade." },
   { q: "Os implementos já estão incluídos no serviço do Trator?", a: "Sim. Já estão incluídos todos os implementos necessários para a realizar aração, gradeamento, abertura de sulcos, produção de silagem, distribuição de calcário, roçagem de pastagens e muito mais." },
