@@ -7,7 +7,7 @@ export default function HeroSection() {
       <div className="container-narrow px-4 py-12 md:py-20 flex flex-col md:flex-row items-center gap-8">
         <div className="flex-1 space-y-6 text-center md:text-left">
           <h1 className="font-heading font-black text-3xl md:text-4xl lg:text-5xl leading-tight">
-            Locação e Serviços com{" "}
+            Locações e Serviços<br />
             <span className="text-primary">Retroescavadeira</span>, <span className="text-primary">Trator</span>, Caminhões e Máquinas
           </h1>
           <p className="text-secondary-foreground/80 text-base md:text-lg max-w-xl">
