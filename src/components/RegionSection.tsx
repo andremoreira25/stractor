@@ -44,6 +44,16 @@ export default function RegionSection() {
             </div>
           ))}
         </div>
+        <div className="text-center">
+          <h3 className="font-heading font-bold text-lg md:text-xl mb-4">Distritos de Conceição do Mato Dentro</h3>
+          <div className="flex flex-wrap justify-center gap-2 max-w-3xl mx-auto">
+            {districts.map((d) => (
+              <span key={d} className="bg-secondary-foreground/10 rounded-full px-3 py-1.5 text-xs font-medium">
+                {d}
+              </span>
+            ))}
+          </div>
+        </div>
         <div className="rounded-xl overflow-hidden shadow-lg">
           <iframe
             title="Localização Stractor - Conceição do Mato Dentro"
