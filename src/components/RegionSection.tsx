@@ -11,6 +11,21 @@ const cities = [
   "Morro do Pilar",
 ];
 
+const districts = [
+  "Brejaúba",
+  "Capitão Felizardo",
+  "Córregos",
+  "Costa Sena",
+  "Itacolomi",
+  "Ouro Fino do Mato Dentro",
+  "Santo Antônio do Cruzeiro",
+  "Santo Antônio do Norte",
+  "São Sebastião do Bonsucesso",
+  "Senhora do Socorro",
+  "Tabuleiro do Mato Dentro",
+  "Três Barras do Mato Dentro",
+];
+
 export default function RegionSection() {
   return (
     <section id="regiao" className="section-padding bg-secondary text-secondary-foreground">
